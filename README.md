@@ -51,4 +51,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## 🔗 Live Demo
 
-_Coming soon (Netlify/Vercel or GitHub Pages)_
+https://softsell-amber.vercel.app/
